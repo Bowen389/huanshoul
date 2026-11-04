@@ -58,10 +58,21 @@
       "recorded_at": "2026-11-03T16:25:47.161915+08:00",
       "return_pct": "1.7277600",
       "stale_marks": []
+    },
+    {
+      "cash": "7497.52",
+      "date": "2026-11-04",
+      "dividend_receivable": "0.00",
+      "market_value": "192906.00",
+      "nav": "200403.52",
+      "positions": 10,
+      "recorded_at": "2026-11-04T15:53:27.356490+08:00",
+      "return_pct": "0.2017600",
+      "stale_marks": []
     }
   ],
   "events": [],
-  "last_completed_close": "2026-11-03",
+  "last_completed_close": "2026-11-04",
   "mode": "PAPER",
   "orders": [
     {
@@ -586,14 +597,16 @@
     "2026-11-02:open",
     "2026-11-02:close",
     "2026-11-03:open",
-    "2026-11-03:close"
+    "2026-11-03:close",
+    "2026-11-04:open",
+    "2026-11-04:close"
   ],
   "positions": {
     "sh601158": {
       "cost": "20046.20",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "4.17",
+      "last_price": "4.18",
       "locks": [],
       "name": "重庆水务",
       "qty": 4900
@@ -602,7 +615,7 @@
       "cost": "19531.20",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "7.50",
+      "last_price": "7.31",
       "locks": [],
       "name": "农业银行",
       "qty": 2600
@@ -611,7 +624,7 @@
       "cost": "19343.19",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "8.59",
+      "last_price": "8.41",
       "locks": [],
       "name": "工商银行",
       "qty": 2200
@@ -620,7 +633,7 @@
       "cost": "17205.17",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "35.90",
+      "last_price": "35.80",
       "locks": [],
       "name": "中国人寿",
       "qty": 500
@@ -629,7 +642,7 @@
       "cost": "19773.20",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "7.27",
+      "last_price": "6.86",
       "locks": [],
       "name": "中国电信",
       "qty": 2800
@@ -638,7 +651,7 @@
       "cost": "19199.19",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "14.00",
+      "last_price": "13.62",
       "locks": [],
       "name": "中国石油",
       "qty": 1400
@@ -647,7 +660,7 @@
       "cost": "19885.20",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "6.92",
+      "last_price": "6.83",
       "locks": [],
       "name": "中国银行",
       "qty": 2800
@@ -656,7 +669,7 @@
       "cost": "19745.20",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "9.17",
+      "last_price": "9.02",
       "locks": [],
       "name": "中信银行",
       "qty": 2100
@@ -665,7 +678,7 @@
       "cost": "19741.20",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "24.59",
+      "last_price": "24.75",
       "locks": [],
       "name": "天新药业",
       "qty": 800
@@ -674,7 +687,7 @@
       "cost": "20123.20",
       "dividends": "0.00",
       "entry_date": "2026-11-02",
-      "last_price": "14.94",
+      "last_price": "14.91",
       "locks": [],
       "name": "龙源电力",
       "qty": 1400
