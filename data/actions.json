@@ -83,16 +83,6 @@
     {
       "actual_payment_date_unknown": true,
       "bonus_per_share": "0.0",
-      "cash_per_share": "0.9800000000000001",
-      "ex_date": "2026-10-26",
-      "id": "sh601088:2026-10-26:2026-10-23",
-      "record_date": "2026-10-23",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sh601088"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
       "cash_per_share": "0.3",
       "ex_date": "2026-10-27",
       "id": "sh601229:2026-10-27:2026-10-26",
@@ -153,16 +143,6 @@
     {
       "actual_payment_date_unknown": true,
       "bonus_per_share": "0.0",
-      "cash_per_share": "0.022",
-      "ex_date": "2026-10-26",
-      "id": "sh601866:2026-10-26:2026-10-23",
-      "record_date": "2026-10-23",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sh601866"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
       "cash_per_share": "1.06",
       "ex_date": "2026-11-10",
       "id": "sh601869:2026-11-10:2026-11-09",
@@ -179,16 +159,6 @@
       "record_date": "2026-10-29",
       "source": "Eastmoney RPT_SHAREBONUS_DET",
       "symbol": "sh601878"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
-      "cash_per_share": "0.05",
-      "ex_date": "2026-10-26",
-      "id": "sh601990:2026-10-26:2026-10-23",
-      "record_date": "2026-10-23",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sh601990"
     },
     {
       "actual_payment_date_unknown": true,
@@ -393,16 +363,6 @@
     {
       "actual_payment_date_unknown": true,
       "bonus_per_share": "0.0",
-      "cash_per_share": "0.11000000000000001",
-      "ex_date": "2026-10-26",
-      "id": "sh688379:2026-10-26:2026-10-23",
-      "record_date": "2026-10-23",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sh688379"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
       "cash_per_share": "0.2",
       "ex_date": "2026-10-30",
       "id": "sh688409:2026-10-30:2026-10-29",
@@ -459,16 +419,6 @@
       "record_date": "2026-11-06",
       "source": "Eastmoney RPT_SHAREBONUS_DET",
       "symbol": "sz000531"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
-      "cash_per_share": "0.06",
-      "ex_date": "2026-10-26",
-      "id": "sz000630:2026-10-26:2026-10-23",
-      "record_date": "2026-10-23",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sz000630"
     },
     {
       "actual_payment_date_unknown": true,
@@ -923,16 +873,6 @@
     {
       "actual_payment_date_unknown": true,
       "bonus_per_share": "0.0",
-      "cash_per_share": "0.06",
-      "ex_date": "2026-10-26",
-      "id": "sz301217:2026-10-26:2026-10-23",
-      "record_date": "2026-10-23",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sz301217"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
       "cash_per_share": "0.3",
       "ex_date": "2026-11-12",
       "id": "sz301282:2026-11-12:2026-11-11",
@@ -1041,5 +981,5 @@
       "symbol": "sz920779"
     }
   ],
-  "fetched_on": "2026-11-05"
+  "fetched_on": "2026-11-06"
 }
