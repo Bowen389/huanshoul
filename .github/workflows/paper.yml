@@ -1,9 +1,10 @@
 name: Low turnover CNY 200k paper account
 on:
   schedule:
+    # GitHub native schedule; UTC -> Asia/Shanghai 17:00 / 18:00
     - cron: '35,50 1 * * 1-5'
-    - cron: '40 7 * * 1-5'
-    - cron: '10 8 * * 1-5'
+    - cron: '0 9 * * 1-5'
+    - cron: '0 10 * * 1-5'
   workflow_dispatch:
   push:
     branches: [main]
