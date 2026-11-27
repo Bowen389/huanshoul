@@ -103,6 +103,16 @@
     {
       "actual_payment_date_unknown": true,
       "bonus_per_share": "0.0",
+      "cash_per_share": "0.071",
+      "ex_date": "2026-12-03",
+      "id": "sh600483:2026-12-03:2026-12-02",
+      "record_date": "2026-12-02",
+      "source": "Eastmoney RPT_SHAREBONUS_DET",
+      "symbol": "sh600483"
+    },
+    {
+      "actual_payment_date_unknown": true,
+      "bonus_per_share": "0.0",
       "cash_per_share": "0.08",
       "ex_date": "2026-11-30",
       "id": "sh600663:2026-11-30:2026-11-27",
@@ -263,16 +273,6 @@
     {
       "actual_payment_date_unknown": true,
       "bonus_per_share": "0.0",
-      "cash_per_share": "0.15",
-      "ex_date": "2026-11-16",
-      "id": "sh601881:2026-11-16:2026-11-13",
-      "record_date": "2026-11-13",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sh601881"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
       "cash_per_share": "0.4",
       "ex_date": "2026-11-20",
       "id": "sh601888:2026-11-20:2026-11-19",
@@ -349,16 +349,6 @@
       "record_date": "2026-12-03",
       "source": "Eastmoney RPT_SHAREBONUS_DET",
       "symbol": "sh603270"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
-      "cash_per_share": "0.02",
-      "ex_date": "2026-11-16",
-      "id": "sh603273:2026-11-16:2026-11-13",
-      "record_date": "2026-11-13",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sh603273"
     },
     {
       "actual_payment_date_unknown": true,
@@ -519,16 +509,6 @@
       "record_date": "2026-11-19",
       "source": "Eastmoney RPT_SHAREBONUS_DET",
       "symbol": "sh688179"
-    },
-    {
-      "actual_payment_date_unknown": true,
-      "bonus_per_share": "0.0",
-      "cash_per_share": "0.5820000000000001",
-      "ex_date": "2026-11-16",
-      "id": "sh688188:2026-11-16:2026-11-13",
-      "record_date": "2026-11-13",
-      "source": "Eastmoney RPT_SHAREBONUS_DET",
-      "symbol": "sh688188"
     },
     {
       "actual_payment_date_unknown": true,
@@ -1351,5 +1331,5 @@
       "symbol": "sz920976"
     }
   ],
-  "fetched_on": "2026-11-26"
+  "fetched_on": "2026-11-27"
 }
